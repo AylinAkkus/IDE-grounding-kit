@@ -1,0 +1,4022 @@
+[
+  {
+    "backend_node_id": 295,
+    "bbox_unnormalized": [
+      0,
+      0,
+      2880,
+      1824
+    ],
+    "bbox_normalized": [
+      0.0,
+      0.0,
+      1000.0,
+      1000.0
+    ],
+    "aria_label": "",
+    "classes": "file-icons-enabled enable-motion monaco-workbench windows chromium maximized vs-dark vscode-theme-defaults-themes-dark_vs-json",
+    "images": [
+      "295.png"
+    ]
+  },
+  {
+    "backend_node_id": 8,
+    "bbox_unnormalized": [
+      56,
+      0,
+      126,
+      60
+    ],
+    "bbox_normalized": [
+      19.444444444444446,
+      0.0,
+      43.75,
+      32.89473684210526
+    ],
+    "aria_label": "",
+    "classes": "window-appicon",
+    "images": [
+      "8.png"
+    ]
+  },
+  {
+    "backend_node_id": 315,
+    "bbox_unnormalized": [
+      10,
+      8,
+      54,
+      52
+    ],
+    "bbox_normalized": [
+      3.472222222222222,
+      4.385964912280701,
+      18.75,
+      28.508771929824558
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-sidebar-left custom-titlebar-button !text-[18px]",
+    "images": [
+      "315.png"
+    ]
+  },
+  {
+    "backend_node_id": 500726,
+    "bbox_unnormalized": [
+      2396.015625,
+      8,
+      2440.015625,
+      52
+    ],
+    "bbox_normalized": [
+      831.9498697916666,
+      4.385964912280701,
+      847.2276475694445,
+      28.508771929824558
+    ],
+    "aria_label": "Toggle Primary Side Bar (Ctrl+B)",
+    "classes": "action-label checked codicon codicon-panel-left",
+    "images": [
+      "500726.png"
+    ]
+  },
+  {
+    "backend_node_id": 500731,
+    "bbox_unnormalized": [
+      2448.015625,
+      8,
+      2492.015625,
+      52
+    ],
+    "bbox_normalized": [
+      850.0054253472223,
+      4.385964912280701,
+      865.283203125,
+      28.508771929824558
+    ],
+    "aria_label": "Toggle Panel (Ctrl+J)",
+    "classes": "action-label checked codicon codicon-panel-layout-icon",
+    "images": [
+      "500731.png"
+    ]
+  },
+  {
+    "backend_node_id": 500736,
+    "bbox_unnormalized": [
+      2500.015625,
+      8,
+      2544.015625,
+      52
+    ],
+    "bbox_normalized": [
+      868.0609809027777,
+      4.385964912280701,
+      883.3387586805555,
+      28.508771929824558
+    ],
+    "aria_label": "Toggle AI Pane (Ctrl+Alt+B)",
+    "classes": "action-label checked codicon codicon-layout-sidebar-right",
+    "images": [
+      "500736.png"
+    ]
+  },
+  {
+    "backend_node_id": 500741,
+    "bbox_unnormalized": [
+      2552.015625,
+      8,
+      2596.015625,
+      52
+    ],
+    "bbox_normalized": [
+      886.1165364583334,
+      4.385964912280701,
+      901.3943142361112,
+      28.508771929824558
+    ],
+    "aria_label": "Open Cursor Settings (Ctrl+Shift+J)",
+    "classes": "action-label checked codicon codicon-settings-icon-cursor",
+    "images": [
+      "500741.png"
+    ]
+  },
+  {
+    "backend_node_id": 401275,
+    "bbox_unnormalized": [
+      57,
+      69,
+      109,
+      121
+    ],
+    "bbox_normalized": [
+      19.791666666666664,
+      37.828947368421055,
+      37.84722222222222,
+      66.33771929824562
+    ],
+    "aria_label": "",
+    "classes": "sidebar2-item-icon-anysphere sidebar-list-item-selected",
+    "images": [
+      "401275.png"
+    ]
+  },
+  {
+    "backend_node_id": 401271,
+    "bbox_unnormalized": [
+      68,
+      80,
+      98,
+      110
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      43.859649122807014,
+      34.02777777777777,
+      60.30701754385965
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-explorer-view-icon",
+    "images": [
+      "401271.png"
+    ]
+  },
+  {
+    "backend_node_id": 401276,
+    "bbox_unnormalized": [
+      121,
+      69,
+      173,
+      121
+    ],
+    "bbox_normalized": [
+      42.01388888888889,
+      37.828947368421055,
+      60.06944444444444,
+      66.33771929824562
+    ],
+    "aria_label": "",
+    "classes": "sidebar2-item-icon-anysphere ",
+    "images": [
+      "401276.png"
+    ]
+  },
+  {
+    "backend_node_id": 401272,
+    "bbox_unnormalized": [
+      132,
+      80,
+      162,
+      110
+    ],
+    "bbox_normalized": [
+      45.83333333333333,
+      43.859649122807014,
+      56.25,
+      60.30701754385965
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-search-view-icon",
+    "images": [
+      "401272.png"
+    ]
+  },
+  {
+    "backend_node_id": 401277,
+    "bbox_unnormalized": [
+      185,
+      69,
+      237,
+      121
+    ],
+    "bbox_normalized": [
+      64.2361111111111,
+      37.828947368421055,
+      82.29166666666667,
+      66.33771929824562
+    ],
+    "aria_label": "",
+    "classes": "sidebar2-item-icon-anysphere ",
+    "images": [
+      "401277.png"
+    ]
+  },
+  {
+    "backend_node_id": 401270,
+    "bbox_unnormalized": [
+      196,
+      80,
+      226,
+      110
+    ],
+    "bbox_normalized": [
+      68.05555555555554,
+      43.859649122807014,
+      78.47222222222221,
+      60.30701754385965
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-source-control-view-icon",
+    "images": [
+      "401270.png"
+    ]
+  },
+  {
+    "backend_node_id": 401278,
+    "bbox_unnormalized": [
+      249,
+      69,
+      301,
+      121
+    ],
+    "bbox_normalized": [
+      86.45833333333333,
+      37.828947368421055,
+      104.51388888888889,
+      66.33771929824562
+    ],
+    "aria_label": "",
+    "classes": "sidebar2-item-icon-anysphere ",
+    "images": [
+      "401278.png"
+    ]
+  },
+  {
+    "backend_node_id": 401273,
+    "bbox_unnormalized": [
+      260,
+      80,
+      290,
+      110
+    ],
+    "bbox_normalized": [
+      90.27777777777777,
+      43.859649122807014,
+      100.69444444444444,
+      60.30701754385965
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-extensions-view-icon",
+    "images": [
+      "401273.png"
+    ]
+  },
+  {
+    "backend_node_id": 7,
+    "bbox_unnormalized": [
+      313,
+      69,
+      365,
+      121
+    ],
+    "bbox_normalized": [
+      108.68055555555556,
+      37.828947368421055,
+      126.7361111111111,
+      66.33771929824562
+    ],
+    "aria_label": "",
+    "classes": "sidebar2-item-icon-anysphere",
+    "images": [
+      "7.png"
+    ]
+  },
+  {
+    "backend_node_id": 415,
+    "bbox_unnormalized": [
+      324,
+      80,
+      354,
+      110
+    ],
+    "bbox_normalized": [
+      112.5,
+      43.859649122807014,
+      122.91666666666666,
+      60.30701754385965
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-chevron-down",
+    "images": [
+      "415.png"
+    ]
+  },
+  {
+    "backend_node_id": 432,
+    "bbox_unnormalized": [
+      4,
+      136,
+      36,
+      168
+    ],
+    "bbox_normalized": [
+      1.3888888888888888,
+      74.56140350877193,
+      12.5,
+      92.10526315789473
+    ],
+    "aria_label": "",
+    "classes": "twisties-container-in-view-pane-header twisty-container codicon-view-pane-container-expanded codicon",
+    "images": [
+      "432.png"
+    ]
+  },
+  {
+    "backend_node_id": 458,
+    "bbox_unnormalized": [
+      0,
+      174,
+      426,
+      1692
+    ],
+    "bbox_normalized": [
+      0.0,
+      95.39473684210527,
+      147.91666666666666,
+      927.6315789473684
+    ],
+    "aria_label": "",
+    "classes": "explorer-folders-view file-icon-themable-tree show-file-icons align-icons-and-twisties",
+    "images": [
+      "458.png"
+    ]
+  },
+  {
+    "backend_node_id": 536,
+    "bbox_unnormalized": [
+      14,
+      174,
+      74,
+      218
+    ],
+    "bbox_normalized": [
+      4.861111111111112,
+      95.39473684210527,
+      25.694444444444443,
+      119.51754385964912
+    ],
+    "aria_label": "",
+    "classes": "monaco-tl-twistie collapsible collapsed codicon codicon-tree-item-expanded",
+    "images": [
+      "536.png"
+    ]
+  },
+  {
+    "backend_node_id": 539,
+    "bbox_unnormalized": [
+      68,
+      174,
+      426,
+      218
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      95.39473684210527,
+      147.91666666666666,
+      119.51754385964912
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\__pycache__",
+    "classes": "monaco-icon-label folder-icon ide_use-name-dir-icon __pycache__-name-folder-icon explorer-item",
+    "images": [
+      "539.png"
+    ]
+  },
+  {
+    "backend_node_id": 540,
+    "bbox_unnormalized": [
+      68,
+      174,
+      426,
+      218
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      95.39473684210527,
+      147.91666666666666,
+      119.51754385964912
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "540.png"
+    ]
+  },
+  {
+    "backend_node_id": 541,
+    "bbox_unnormalized": [
+      68,
+      178,
+      204.59375,
+      213
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      97.58771929824562,
+      71.03949652777777,
+      116.77631578947368
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "541.png"
+    ]
+  },
+  {
+    "backend_node_id": 593,
+    "bbox_unnormalized": [
+      14,
+      218,
+      74,
+      262
+    ],
+    "bbox_normalized": [
+      4.861111111111112,
+      119.51754385964912,
+      25.694444444444443,
+      143.640350877193
+    ],
+    "aria_label": "",
+    "classes": "monaco-tl-twistie collapsible codicon codicon-tree-item-expanded",
+    "images": [
+      "593.png"
+    ]
+  },
+  {
+    "backend_node_id": 595,
+    "bbox_unnormalized": [
+      68,
+      218,
+      426,
+      262
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      119.51754385964912,
+      147.91666666666666,
+      143.640350877193
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\agent",
+    "classes": "monaco-icon-label folder-icon ide_use-name-dir-icon agent-name-folder-icon explorer-item",
+    "images": [
+      "595.png"
+    ]
+  },
+  {
+    "backend_node_id": 597,
+    "bbox_unnormalized": [
+      68,
+      218,
+      426,
+      262
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      119.51754385964912,
+      147.91666666666666,
+      143.640350877193
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "597.png"
+    ]
+  },
+  {
+    "backend_node_id": 598,
+    "bbox_unnormalized": [
+      68,
+      222,
+      133.671875,
+      257
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      121.71052631578948,
+      46.413845486111114,
+      140.89912280701756
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "598.png"
+    ]
+  },
+  {
+    "backend_node_id": 2996,
+    "bbox_unnormalized": [
+      40,
+      262,
+      426,
+      306
+    ],
+    "bbox_normalized": [
+      13.888888888888888,
+      143.640350877193,
+      147.91666666666666,
+      167.76315789473685
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\agent\\agent.py",
+    "classes": "monaco-icon-label file-icon agent-name-dir-icon agent.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon explorer-item",
+    "images": [
+      "2996.png"
+    ]
+  },
+  {
+    "backend_node_id": 2752,
+    "bbox_unnormalized": [
+      84,
+      262,
+      426,
+      306
+    ],
+    "bbox_normalized": [
+      29.166666666666668,
+      143.640350877193,
+      147.91666666666666,
+      167.76315789473685
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "2752.png"
+    ]
+  },
+  {
+    "backend_node_id": 2997,
+    "bbox_unnormalized": [
+      84,
+      266,
+      183.171875,
+      301
+    ],
+    "bbox_normalized": [
+      29.166666666666668,
+      145.83333333333334,
+      63.601345486111114,
+      165.0219298245614
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "2997.png"
+    ]
+  },
+  {
+    "backend_node_id": 10707,
+    "bbox_unnormalized": [
+      40,
+      306,
+      426,
+      350
+    ],
+    "bbox_normalized": [
+      13.888888888888888,
+      167.76315789473685,
+      147.91666666666666,
+      191.8859649122807
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\agent\\service.py",
+    "classes": "monaco-icon-label file-icon agent-name-dir-icon service.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon explorer-item",
+    "images": [
+      "10707.png"
+    ]
+  },
+  {
+    "backend_node_id": 10708,
+    "bbox_unnormalized": [
+      84,
+      306,
+      426,
+      350
+    ],
+    "bbox_normalized": [
+      29.166666666666668,
+      167.76315789473685,
+      147.91666666666666,
+      191.8859649122807
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "10708.png"
+    ]
+  },
+  {
+    "backend_node_id": 10709,
+    "bbox_unnormalized": [
+      84,
+      310,
+      195.53125,
+      345
+    ],
+    "bbox_normalized": [
+      29.166666666666668,
+      169.9561403508772,
+      67.89279513888889,
+      189.14473684210526
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "10709.png"
+    ]
+  },
+  {
+    "backend_node_id": 571,
+    "bbox_unnormalized": [
+      14,
+      350,
+      74,
+      394
+    ],
+    "bbox_normalized": [
+      4.861111111111112,
+      191.8859649122807,
+      25.694444444444443,
+      216.00877192982458
+    ],
+    "aria_label": "",
+    "classes": "monaco-tl-twistie codicon codicon-tree-item-expanded collapsible collapsed",
+    "images": [
+      "571.png"
+    ]
+  },
+  {
+    "backend_node_id": 573,
+    "bbox_unnormalized": [
+      68,
+      350,
+      426,
+      394
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      191.8859649122807,
+      147.91666666666666,
+      216.00877192982458
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\dom_optimized",
+    "classes": "monaco-icon-label folder-icon ide_use-name-dir-icon dom_optimized-name-folder-icon explorer-item",
+    "images": [
+      "573.png"
+    ]
+  },
+  {
+    "backend_node_id": 575,
+    "bbox_unnormalized": [
+      68,
+      350,
+      426,
+      394
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      191.8859649122807,
+      147.91666666666666,
+      216.00877192982458
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "575.png"
+    ]
+  },
+  {
+    "backend_node_id": 576,
+    "bbox_unnormalized": [
+      68,
+      354,
+      246.71875,
+      389
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      194.07894736842104,
+      85.6662326388889,
+      213.26754385964912
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "576.png"
+    ]
+  },
+  {
+    "backend_node_id": 10262,
+    "bbox_unnormalized": [
+      14,
+      394,
+      74,
+      438
+    ],
+    "bbox_normalized": [
+      4.861111111111112,
+      216.00877192982458,
+      25.694444444444443,
+      240.1315789473684
+    ],
+    "aria_label": "",
+    "classes": "monaco-tl-twistie collapsible collapsed codicon codicon-tree-item-expanded",
+    "images": [
+      "10262.png"
+    ]
+  },
+  {
+    "backend_node_id": 10264,
+    "bbox_unnormalized": [
+      68,
+      394,
+      426,
+      438
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      216.00877192982458,
+      147.91666666666666,
+      240.1315789473684
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\output",
+    "classes": "monaco-icon-label folder-icon ide_use-name-dir-icon output-name-folder-icon explorer-item",
+    "images": [
+      "10264.png"
+    ]
+  },
+  {
+    "backend_node_id": 10265,
+    "bbox_unnormalized": [
+      68,
+      394,
+      426,
+      438
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      216.00877192982458,
+      147.91666666666666,
+      240.1315789473684
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "10265.png"
+    ]
+  },
+  {
+    "backend_node_id": 10266,
+    "bbox_unnormalized": [
+      68,
+      398,
+      145.578125,
+      433
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      218.20175438596493,
+      50.54796006944444,
+      237.390350877193
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "10266.png"
+    ]
+  },
+  {
+    "backend_node_id": 503,
+    "bbox_unnormalized": [
+      24,
+      438,
+      426,
+      482
+    ],
+    "bbox_normalized": [
+      8.333333333333334,
+      240.1315789473684,
+      147.91666666666666,
+      264.2543859649123
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\api_call.py",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon api_call.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon explorer-item",
+    "images": [
+      "503.png"
+    ]
+  },
+  {
+    "backend_node_id": 505,
+    "bbox_unnormalized": [
+      68,
+      438,
+      426,
+      482
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      240.1315789473684,
+      147.91666666666666,
+      264.2543859649123
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "505.png"
+    ]
+  },
+  {
+    "backend_node_id": 506,
+    "bbox_unnormalized": [
+      68,
+      442,
+      184.9375,
+      477
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      242.32456140350877,
+      64.21440972222223,
+      261.5131578947368
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "506.png"
+    ]
+  },
+  {
+    "backend_node_id": 562,
+    "bbox_unnormalized": [
+      24,
+      482,
+      426,
+      526
+    ],
+    "bbox_normalized": [
+      8.333333333333334,
+      264.2543859649123,
+      147.91666666666666,
+      288.3771929824561
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\connect_cdp.py",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon connect_cdp.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon explorer-item",
+    "images": [
+      "562.png"
+    ]
+  },
+  {
+    "backend_node_id": 564,
+    "bbox_unnormalized": [
+      68,
+      482,
+      426,
+      526
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      264.2543859649123,
+      147.91666666666666,
+      288.3771929824561
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "564.png"
+    ]
+  },
+  {
+    "backend_node_id": 565,
+    "bbox_unnormalized": [
+      68,
+      486,
+      246,
+      521
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      266.44736842105266,
+      85.41666666666667,
+      285.6359649122807
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "565.png"
+    ]
+  },
+  {
+    "backend_node_id": 584,
+    "bbox_unnormalized": [
+      24,
+      526,
+      426,
+      570
+    ],
+    "bbox_normalized": [
+      8.333333333333334,
+      288.3771929824561,
+      147.91666666666666,
+      312.5
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\messages.py",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon messages.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon explorer-item",
+    "images": [
+      "584.png"
+    ]
+  },
+  {
+    "backend_node_id": 586,
+    "bbox_unnormalized": [
+      68,
+      526,
+      426,
+      570
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      288.3771929824561,
+      147.91666666666666,
+      312.5
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "586.png"
+    ]
+  },
+  {
+    "backend_node_id": 587,
+    "bbox_unnormalized": [
+      68,
+      530,
+      212.734375,
+      565
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      290.5701754385965,
+      73.86610243055556,
+      309.75877192982455
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "587.png"
+    ]
+  },
+  {
+    "backend_node_id": 3004,
+    "bbox_unnormalized": [
+      24,
+      570,
+      426,
+      614
+    ],
+    "bbox_normalized": [
+      8.333333333333334,
+      312.5,
+      147.91666666666666,
+      336.6228070175439
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\postprocess.py",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon postprocess.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon explorer-item",
+    "images": [
+      "3004.png"
+    ]
+  },
+  {
+    "backend_node_id": 2534,
+    "bbox_unnormalized": [
+      68,
+      570,
+      426,
+      614
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      312.5,
+      147.91666666666666,
+      336.6228070175439
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "2534.png"
+    ]
+  },
+  {
+    "backend_node_id": 3005,
+    "bbox_unnormalized": [
+      68,
+      574,
+      239.109375,
+      609
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      314.6929824561404,
+      83.02408854166667,
+      333.88157894736844
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "3005.png"
+    ]
+  },
+  {
+    "backend_node_id": 2988,
+    "bbox_unnormalized": [
+      24,
+      614,
+      426,
+      658
+    ],
+    "bbox_normalized": [
+      8.333333333333334,
+      336.6228070175439,
+      147.91666666666666,
+      360.7456140350877
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\process_gui_elements.py",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon process_gui_elements.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon explorer-item",
+    "images": [
+      "2988.png"
+    ]
+  },
+  {
+    "backend_node_id": 2565,
+    "bbox_unnormalized": [
+      68,
+      614,
+      426,
+      658
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      336.6228070175439,
+      147.91666666666666,
+      360.7456140350877
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "2565.png"
+    ]
+  },
+  {
+    "backend_node_id": 2989,
+    "bbox_unnormalized": [
+      68,
+      618,
+      350.6875,
+      653
+    ],
+    "bbox_normalized": [
+      23.61111111111111,
+      338.8157894736842,
+      121.76649305555554,
+      358.0043859649123
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "2989.png"
+    ]
+  },
+  {
+    "backend_node_id": 618,
+    "bbox_unnormalized": [
+      4,
+      1699,
+      36,
+      1731
+    ],
+    "bbox_normalized": [
+      1.3888888888888888,
+      931.4692982456141,
+      12.5,
+      949.0131578947369
+    ],
+    "aria_label": "",
+    "classes": "twisties-container-in-view-pane-header twisty-container codicon-view-pane-container-collapsed codicon",
+    "images": [
+      "618.png"
+    ]
+  },
+  {
+    "backend_node_id": 638,
+    "bbox_unnormalized": [
+      4,
+      1743,
+      36,
+      1775
+    ],
+    "bbox_normalized": [
+      1.3888888888888888,
+      955.5921052631578,
+      12.5,
+      973.1359649122808
+    ],
+    "aria_label": "",
+    "classes": "twisties-container-in-view-pane-header twisty-container codicon-view-pane-container-collapsed codicon",
+    "images": [
+      "638.png"
+    ]
+  },
+  {
+    "backend_node_id": 762,
+    "bbox_unnormalized": [
+      426,
+      60,
+      2102,
+      174
+    ],
+    "bbox_normalized": [
+      147.91666666666666,
+      32.89473684210526,
+      729.8611111111111,
+      95.39473684210527
+    ],
+    "aria_label": "",
+    "classes": "title tabs show-file-icons",
+    "images": [
+      "762.png"
+    ]
+  },
+  {
+    "backend_node_id": 494233,
+    "bbox_unnormalized": [
+      426,
+      60,
+      726,
+      130
+    ],
+    "bbox_normalized": [
+      147.91666666666666,
+      32.89473684210526,
+      252.08333333333331,
+      71.2719298245614
+    ],
+    "aria_label": "connect_cdp.py",
+    "classes": "tab tab-actions-right sizing-fit has-icon active selected",
+    "images": [
+      "494233.png"
+    ]
+  },
+  {
+    "backend_node_id": 495289,
+    "bbox_unnormalized": [
+      446,
+      60,
+      668,
+      131
+    ],
+    "bbox_normalized": [
+      154.86111111111111,
+      32.89473684210526,
+      231.94444444444446,
+      71.8201754385965
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\connect_cdp.py",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon connect_cdp.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon tab-label tab-label-has-badge",
+    "images": [
+      "495289.png"
+    ]
+  },
+  {
+    "backend_node_id": 495291,
+    "bbox_unnormalized": [
+      490,
+      60,
+      668,
+      131
+    ],
+    "bbox_normalized": [
+      170.13888888888889,
+      32.89473684210526,
+      231.94444444444446,
+      71.8201754385965
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "495291.png"
+    ]
+  },
+  {
+    "backend_node_id": 495292,
+    "bbox_unnormalized": [
+      490,
+      77,
+      668,
+      112
+    ],
+    "bbox_normalized": [
+      170.13888888888889,
+      42.21491228070175,
+      231.94444444444446,
+      61.40350877192982
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "495292.png"
+    ]
+  },
+  {
+    "backend_node_id": 495299,
+    "bbox_unnormalized": [
+      676,
+      75,
+      716,
+      115
+    ],
+    "bbox_normalized": [
+      234.72222222222223,
+      41.11842105263158,
+      248.61111111111111,
+      63.04824561403509
+    ],
+    "aria_label": "Close (Ctrl+F4)",
+    "classes": "action-label codicon codicon-close",
+    "images": [
+      "495299.png"
+    ]
+  },
+  {
+    "backend_node_id": 494227,
+    "bbox_unnormalized": [
+      726,
+      60,
+      1019.109375,
+      130
+    ],
+    "bbox_normalized": [
+      252.08333333333331,
+      32.89473684210526,
+      353.857421875,
+      71.2719298245614
+    ],
+    "aria_label": "postprocess.py",
+    "classes": "tab tab-actions-right sizing-fit has-icon",
+    "images": [
+      "494227.png"
+    ]
+  },
+  {
+    "backend_node_id": 495303,
+    "bbox_unnormalized": [
+      746,
+      60,
+      961.109375,
+      131
+    ],
+    "bbox_normalized": [
+      259.0277777777778,
+      32.89473684210526,
+      333.7185329861111,
+      71.8201754385965
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\postprocess.py",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon postprocess.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon tab-label tab-label-has-badge",
+    "images": [
+      "495303.png"
+    ]
+  },
+  {
+    "backend_node_id": 495305,
+    "bbox_unnormalized": [
+      790,
+      60,
+      961.109375,
+      131
+    ],
+    "bbox_normalized": [
+      274.3055555555556,
+      32.89473684210526,
+      333.7185329861111,
+      71.8201754385965
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "495305.png"
+    ]
+  },
+  {
+    "backend_node_id": 495306,
+    "bbox_unnormalized": [
+      790,
+      77,
+      961.109375,
+      112
+    ],
+    "bbox_normalized": [
+      274.3055555555556,
+      42.21491228070175,
+      333.7185329861111,
+      61.40350877192982
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "495306.png"
+    ]
+  },
+  {
+    "backend_node_id": 495313,
+    "bbox_unnormalized": [
+      969.109375,
+      75,
+      1009.109375,
+      115
+    ],
+    "bbox_normalized": [
+      336.49631076388886,
+      41.11842105263158,
+      350.38519965277777,
+      63.04824561403509
+    ],
+    "aria_label": "Close (Ctrl+F4)",
+    "classes": "action-label codicon codicon-close",
+    "images": [
+      "495313.png"
+    ]
+  },
+  {
+    "backend_node_id": 509572,
+    "bbox_unnormalized": [
+      1904,
+      73,
+      1948,
+      117
+    ],
+    "bbox_normalized": [
+      661.1111111111111,
+      40.021929824561404,
+      676.3888888888889,
+      64.14473684210527
+    ],
+    "aria_label": "Run Python File",
+    "classes": "action-label codicon codicon-play",
+    "images": [
+      "509572.png"
+    ]
+  },
+  {
+    "backend_node_id": 509579,
+    "bbox_unnormalized": [
+      1942,
+      73,
+      1974,
+      117
+    ],
+    "bbox_normalized": [
+      674.3055555555557,
+      40.021929824561404,
+      685.4166666666666,
+      64.14473684210527
+    ],
+    "aria_label": "Run or Debug...",
+    "classes": "action-label codicon codicon-chevron-down",
+    "images": [
+      "509579.png"
+    ]
+  },
+  {
+    "backend_node_id": 509582,
+    "bbox_unnormalized": [
+      1982,
+      73,
+      2026,
+      117
+    ],
+    "bbox_normalized": [
+      688.1944444444445,
+      40.021929824561404,
+      703.4722222222223,
+      64.14473684210527
+    ],
+    "aria_label": "Split Editor Right (Ctrl+^)\n[Alt] Split Editor Down",
+    "classes": "action-label codicon codicon-split-horizontal",
+    "images": [
+      "509582.png"
+    ]
+  },
+  {
+    "backend_node_id": 509589,
+    "bbox_unnormalized": [
+      2034,
+      73,
+      2078,
+      117
+    ],
+    "bbox_normalized": [
+      706.25,
+      40.021929824561404,
+      721.5277777777777,
+      64.14473684210527
+    ],
+    "aria_label": "More Actions...",
+    "classes": "action-label codicon codicon-ellipsis-two",
+    "images": [
+      "509589.png"
+    ]
+  },
+  {
+    "backend_node_id": 509592,
+    "bbox_unnormalized": [
+      458,
+      130,
+      680,
+      174
+    ],
+    "bbox_normalized": [
+      159.02777777777777,
+      71.2719298245614,
+      236.11111111111111,
+      95.39473684210527
+    ],
+    "aria_label": "C:\\Users\\aylin\\Repos\\IDE_use\\connect_cdp.py",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon connect_cdp.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon",
+    "images": [
+      "509592.png"
+    ]
+  },
+  {
+    "backend_node_id": 509594,
+    "bbox_unnormalized": [
+      502,
+      130,
+      680,
+      174
+    ],
+    "bbox_normalized": [
+      174.30555555555554,
+      71.2719298245614,
+      236.11111111111111,
+      95.39473684210527
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "509594.png"
+    ]
+  },
+  {
+    "backend_node_id": 509595,
+    "bbox_unnormalized": [
+      502,
+      134,
+      680,
+      169
+    ],
+    "bbox_normalized": [
+      174.30555555555554,
+      73.46491228070177,
+      236.11111111111111,
+      92.65350877192982
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "509595.png"
+    ]
+  },
+  {
+    "backend_node_id": 509598,
+    "bbox_unnormalized": [
+      680,
+      136,
+      712,
+      168
+    ],
+    "bbox_normalized": [
+      236.11111111111111,
+      74.56140350877193,
+      247.22222222222223,
+      92.10526315789473
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-breadcrumb-separator",
+    "images": [
+      "509598.png"
+    ]
+  },
+  {
+    "backend_node_id": 509600,
+    "bbox_unnormalized": [
+      712,
+      130,
+      750,
+      174
+    ],
+    "bbox_normalized": [
+      247.22222222222223,
+      71.2719298245614,
+      260.4166666666667,
+      95.39473684210527
+    ],
+    "aria_label": "",
+    "classes": "outline-element-icon inline codicon codicon-symbol-function",
+    "images": [
+      "509600.png"
+    ]
+  },
+  {
+    "backend_node_id": 509602,
+    "bbox_unnormalized": [
+      750,
+      130,
+      1063.578125,
+      174
+    ],
+    "bbox_normalized": [
+      260.4166666666667,
+      71.2719298245614,
+      369.29796006944446,
+      95.39473684210527
+    ],
+    "aria_label": "save_icons_and_create_json (function)",
+    "classes": "monaco-icon-label nowrap",
+    "images": [
+      "509602.png"
+    ]
+  },
+  {
+    "backend_node_id": 509603,
+    "bbox_unnormalized": [
+      750,
+      130,
+      1063.578125,
+      174
+    ],
+    "bbox_normalized": [
+      260.4166666666667,
+      71.2719298245614,
+      369.29796006944446,
+      95.39473684210527
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label-container",
+    "images": [
+      "509603.png"
+    ]
+  },
+  {
+    "backend_node_id": 509604,
+    "bbox_unnormalized": [
+      750,
+      134,
+      1063.578125,
+      169
+    ],
+    "bbox_normalized": [
+      260.4166666666667,
+      73.46491228070177,
+      369.29796006944446,
+      92.65350877192982
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-name-container",
+    "images": [
+      "509604.png"
+    ]
+  },
+  {
+    "backend_node_id": 509635,
+    "bbox_unnormalized": [
+      514,
+      332,
+      566,
+      370
+    ],
+    "bbox_normalized": [
+      178.47222222222223,
+      182.01754385964912,
+      196.52777777777777,
+      202.85087719298244
+    ],
+    "aria_label": "",
+    "classes": "cldr codicon codicon-folding-expanded",
+    "images": [
+      "509635.png"
+    ]
+  },
+  {
+    "backend_node_id": 509643,
+    "bbox_unnormalized": [
+      514,
+      408,
+      566,
+      446
+    ],
+    "bbox_normalized": [
+      178.47222222222223,
+      223.68421052631578,
+      196.52777777777777,
+      244.51754385964912
+    ],
+    "aria_label": "",
+    "classes": "cldr codicon codicon-folding-expanded",
+    "images": [
+      "509643.png"
+    ]
+  },
+  {
+    "backend_node_id": 509663,
+    "bbox_unnormalized": [
+      514,
+      636,
+      566,
+      674
+    ],
+    "bbox_normalized": [
+      178.47222222222223,
+      348.6842105263158,
+      196.52777777777777,
+      369.51754385964915
+    ],
+    "aria_label": "",
+    "classes": "cldr codicon codicon-folding-expanded",
+    "images": [
+      "509663.png"
+    ]
+  },
+  {
+    "backend_node_id": 509702,
+    "bbox_unnormalized": [
+      514,
+      1092,
+      566,
+      1130
+    ],
+    "bbox_normalized": [
+      178.47222222222223,
+      598.6842105263158,
+      196.52777777777777,
+      619.5175438596491
+    ],
+    "aria_label": "",
+    "classes": "cldr codicon codicon-folding-expanded",
+    "images": [
+      "509702.png"
+    ]
+  },
+  {
+    "backend_node_id": 510230,
+    "bbox_unnormalized": [
+      514,
+      174,
+      566,
+      212
+    ],
+    "bbox_normalized": [
+      178.47222222222223,
+      95.39473684210527,
+      196.52777777777777,
+      116.2280701754386
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-folding-expanded",
+    "images": [
+      "510230.png"
+    ]
+  },
+  {
+    "backend_node_id": 117851,
+    "bbox_unnormalized": [
+      1562,
+      100,
+      1602,
+      140
+    ],
+    "bbox_normalized": [
+      542.3611111111111,
+      54.82456140350877,
+      556.25,
+      76.75438596491229
+    ],
+    "aria_label": "Match Case (Alt+C)",
+    "classes": "monaco-custom-toggle codicon codicon-case-sensitive",
+    "images": [
+      "117851.png"
+    ]
+  },
+  {
+    "backend_node_id": 117852,
+    "bbox_unnormalized": [
+      1606,
+      100,
+      1646,
+      140
+    ],
+    "bbox_normalized": [
+      557.6388888888889,
+      54.82456140350877,
+      571.5277777777777,
+      76.75438596491229
+    ],
+    "aria_label": "Match Whole Word (Alt+W)",
+    "classes": "monaco-custom-toggle codicon codicon-whole-word",
+    "images": [
+      "117852.png"
+    ]
+  },
+  {
+    "backend_node_id": 117853,
+    "bbox_unnormalized": [
+      1650,
+      100,
+      1690,
+      140
+    ],
+    "bbox_normalized": [
+      572.9166666666666,
+      54.82456140350877,
+      586.8055555555555,
+      76.75438596491229
+    ],
+    "aria_label": "Use Regular Expression (Alt+R)",
+    "classes": "monaco-custom-toggle codicon codicon-regex",
+    "images": [
+      "117853.png"
+    ]
+  },
+  {
+    "backend_node_id": 117858,
+    "bbox_unnormalized": [
+      1844,
+      97,
+      1888,
+      141
+    ],
+    "bbox_normalized": [
+      640.2777777777777,
+      53.17982456140351,
+      655.5555555555555,
+      77.30263157894737
+    ],
+    "aria_label": "Previous Match (Shift+⏎)",
+    "classes": "button codicon codicon-find-previous-match disabled",
+    "images": [
+      "117858.png"
+    ]
+  },
+  {
+    "backend_node_id": 117859,
+    "bbox_unnormalized": [
+      1894,
+      97,
+      1938,
+      141
+    ],
+    "bbox_normalized": [
+      657.6388888888889,
+      53.17982456140351,
+      672.9166666666667,
+      77.30263157894737
+    ],
+    "aria_label": "Next Match (⏎)",
+    "classes": "button codicon codicon-find-next-match disabled",
+    "images": [
+      "117859.png"
+    ]
+  },
+  {
+    "backend_node_id": 117860,
+    "bbox_unnormalized": [
+      1942,
+      97,
+      1986,
+      141
+    ],
+    "bbox_normalized": [
+      674.3055555555557,
+      53.17982456140351,
+      689.5833333333334,
+      77.30263157894737
+    ],
+    "aria_label": "Find in Selection (Alt+L)",
+    "classes": "monaco-custom-toggle codicon codicon-find-selection",
+    "images": [
+      "117860.png"
+    ]
+  },
+  {
+    "backend_node_id": 117884,
+    "bbox_unnormalized": [
+      1992,
+      98,
+      2036,
+      142
+    ],
+    "bbox_normalized": [
+      691.6666666666666,
+      53.728070175438596,
+      706.9444444444445,
+      77.85087719298247
+    ],
+    "aria_label": "Close (Esc)",
+    "classes": "button codicon codicon-widget-close disabled",
+    "images": [
+      "117884.png"
+    ]
+  },
+  {
+    "backend_node_id": 510267,
+    "bbox_unnormalized": [
+      1416,
+      1401,
+      1456,
+      1441
+    ],
+    "bbox_normalized": [
+      491.66666666666663,
+      768.0921052631578,
+      505.55555555555554,
+      790.0219298245614
+    ],
+    "aria_label": "New Terminal (Ctrl+Shift+ö)\n[Alt] Split Terminal (Ctrl+Shift+5)",
+    "classes": "action-label codicon codicon-plus",
+    "images": [
+      "510267.png"
+    ]
+  },
+  {
+    "backend_node_id": 510274,
+    "bbox_unnormalized": [
+      1450,
+      1401,
+      1482,
+      1441
+    ],
+    "bbox_normalized": [
+      503.47222222222223,
+      768.0921052631578,
+      514.5833333333333,
+      790.0219298245614
+    ],
+    "aria_label": "Launch Profile...",
+    "classes": "action-label codicon codicon-chevron-down",
+    "images": [
+      "510274.png"
+    ]
+  },
+  {
+    "backend_node_id": 510304,
+    "bbox_unnormalized": [
+      1838,
+      1401,
+      1878,
+      1441
+    ],
+    "bbox_normalized": [
+      638.1944444444443,
+      768.0921052631578,
+      652.0833333333334,
+      790.0219298245614
+    ],
+    "aria_label": "Split Terminal (Ctrl+Shift+5)",
+    "classes": "action-label codicon codicon-split-horizontal",
+    "images": [
+      "510304.png"
+    ]
+  },
+  {
+    "backend_node_id": 510307,
+    "bbox_unnormalized": [
+      1886,
+      1401,
+      1926,
+      1441
+    ],
+    "bbox_normalized": [
+      654.8611111111111,
+      768.0921052631578,
+      668.75,
+      790.0219298245614
+    ],
+    "aria_label": "Kill Terminal",
+    "classes": "action-label codicon codicon-trash",
+    "images": [
+      "510307.png"
+    ]
+  },
+  {
+    "backend_node_id": 510314,
+    "bbox_unnormalized": [
+      1934,
+      1401,
+      1974,
+      1441
+    ],
+    "bbox_normalized": [
+      671.5277777777777,
+      768.0921052631578,
+      685.4166666666666,
+      790.0219298245614
+    ],
+    "aria_label": "Close, Export, Settings and More...",
+    "classes": "action-label codicon codicon-ellipsis-two",
+    "images": [
+      "510314.png"
+    ]
+  },
+  {
+    "backend_node_id": 280554,
+    "bbox_unnormalized": [
+      1982,
+      1398,
+      2026,
+      1442
+    ],
+    "bbox_normalized": [
+      688.1944444444445,
+      766.4473684210526,
+      703.4722222222223,
+      790.5701754385965
+    ],
+    "aria_label": "Maximize Panel Size",
+    "classes": "action-label codicon codicon-panel-maximize",
+    "images": [
+      "280554.png"
+    ]
+  },
+  {
+    "backend_node_id": 280558,
+    "bbox_unnormalized": [
+      2034,
+      1398,
+      2078,
+      1442
+    ],
+    "bbox_normalized": [
+      706.25,
+      766.4473684210526,
+      721.5277777777777,
+      790.5701754385965
+    ],
+    "aria_label": "Hide Panel (Ctrl+J)",
+    "classes": "action-label checked codicon codicon-panel-close",
+    "images": [
+      "280558.png"
+    ]
+  },
+  {
+    "backend_node_id": 506141,
+    "bbox_unnormalized": [
+      2455.0625,
+      79,
+      2487.0625,
+      111
+    ],
+    "bbox_normalized": [
+      852.4522569444445,
+      43.31140350877193,
+      863.5633680555555,
+      60.85526315789474
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-close remove-button",
+    "images": [
+      "506141.png"
+    ]
+  },
+  {
+    "backend_node_id": 510352,
+    "bbox_unnormalized": [
+      2640,
+      75,
+      2680,
+      115
+    ],
+    "bbox_normalized": [
+      916.6666666666666,
+      41.11842105263158,
+      930.5555555555555,
+      63.04824561403509
+    ],
+    "aria_label": "New Chat (Ctrl+T)\n[Alt] Replace Chat (Ctrl+N)",
+    "classes": "action-label codicon codicon-add-two",
+    "images": [
+      "510352.png"
+    ]
+  },
+  {
+    "backend_node_id": 510357,
+    "bbox_unnormalized": [
+      2684,
+      75,
+      2724,
+      115
+    ],
+    "bbox_normalized": [
+      931.9444444444445,
+      41.11842105263158,
+      945.8333333333333,
+      63.04824561403509
+    ],
+    "aria_label": "Show Background Agents",
+    "classes": "action-label codicon codicon-cloud-two",
+    "images": [
+      "510357.png"
+    ]
+  },
+  {
+    "backend_node_id": 510362,
+    "bbox_unnormalized": [
+      2728,
+      75,
+      2768,
+      115
+    ],
+    "bbox_normalized": [
+      947.2222222222222,
+      41.11842105263158,
+      961.1111111111111,
+      63.04824561403509
+    ],
+    "aria_label": "Show Chat History (Ctrl+Alt+ä)",
+    "classes": "action-label codicon codicon-history-two",
+    "images": [
+      "510362.png"
+    ]
+  },
+  {
+    "backend_node_id": 510369,
+    "bbox_unnormalized": [
+      2772,
+      75,
+      2812,
+      115
+    ],
+    "bbox_normalized": [
+      962.5,
+      41.11842105263158,
+      976.3888888888889,
+      63.04824561403509
+    ],
+    "aria_label": "Close, Export, Settings and More...",
+    "classes": "action-label codicon codicon-ellipsis-two",
+    "images": [
+      "510369.png"
+    ]
+  },
+  {
+    "backend_node_id": 501951,
+    "bbox_unnormalized": [
+      2816,
+      73,
+      2860,
+      117
+    ],
+    "bbox_normalized": [
+      977.7777777777777,
+      40.021929824561404,
+      993.0555555555555,
+      64.14473684210527
+    ],
+    "aria_label": "Hide Secondary Side Bar (Ctrl+Alt+B)",
+    "classes": "action-label checked codicon codicon-panel-close",
+    "images": [
+      "501951.png"
+    ]
+  },
+  {
+    "backend_node_id": 496251,
+    "bbox_unnormalized": [
+      2814,
+      -2597.734375,
+      2838,
+      -2559.734375
+    ],
+    "bbox_normalized": [
+      977.0833333333333,
+      -1424.1964775219299,
+      985.4166666666667,
+      -1403.3631441885966
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center leading-[17px] px-1.5 h-[19px] box-border flex-shrink-0  ",
+    "images": [
+      "496251.png"
+    ]
+  },
+  {
+    "backend_node_id": 496252,
+    "bbox_unnormalized": [
+      2814,
+      -2590.734375,
+      2838,
+      -2566.734375
+    ],
+    "bbox_normalized": [
+      977.0833333333333,
+      -1420.3587582236844,
+      985.4166666666667,
+      -1407.200863486842
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-restore !text-[12px] none ",
+    "images": [
+      "496252.png"
+    ]
+  },
+  {
+    "backend_node_id": 506182,
+    "bbox_unnormalized": [
+      2138,
+      -7067,
+      2168,
+      -7033
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -3874.4517543859647,
+      752.7777777777777,
+      -3855.811403508772
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-brain !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "506182.png"
+    ]
+  },
+  {
+    "backend_node_id": 506185,
+    "bbox_unnormalized": [
+      2138,
+      -6871.59375,
+      2168,
+      -6837.59375
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -3767.3211348684213,
+      752.7777777777777,
+      -3748.680783991228
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-eye-two !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "506185.png"
+    ]
+  },
+  {
+    "backend_node_id": 506193,
+    "bbox_unnormalized": [
+      2138,
+      -6819.1875,
+      2168,
+      -6785.1875
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -3738.5896381578946,
+      752.7777777777777,
+      -3719.949287280702
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-eye-two !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "506193.png"
+    ]
+  },
+  {
+    "backend_node_id": 506203,
+    "bbox_unnormalized": [
+      2138,
+      -6664.78125,
+      2168,
+      -6630.78125
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -3653.9370888157896,
+      752.7777777777777,
+      -3635.2967379385964
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-eye-two !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "506203.png"
+    ]
+  },
+  {
+    "backend_node_id": 496360,
+    "bbox_unnormalized": [
+      2155.59375,
+      -6094.578125,
+      2184.40625,
+      -6072.171875
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      -3341.325726425439,
+      758.4743923611111,
+      -3329.0415981359647
+    ],
+    "aria_label": "",
+    "classes": "composer-code-block-file-icon",
+    "images": [
+      "496360.png"
+    ]
+  },
+  {
+    "backend_node_id": 496361,
+    "bbox_unnormalized": [
+      2155.59375,
+      -6097.78125,
+      2190.8125,
+      -6068.96875
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      -3343.0818256578946,
+      760.6987847222222,
+      -3327.2854989035086
+    ],
+    "aria_label": "",
+    "classes": "show-file-icons",
+    "images": [
+      "496361.png"
+    ]
+  },
+  {
+    "backend_node_id": 496363,
+    "bbox_unnormalized": [
+      2155.59375,
+      -6097.78125,
+      2190.8125,
+      -6068.96875
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      -3343.0818256578946,
+      760.6987847222222,
+      -3327.2854989035086
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon create_hf_dataset.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon height-override-important",
+    "images": [
+      "496363.png"
+    ]
+  },
+  {
+    "backend_node_id": 496380,
+    "bbox_unnormalized": [
+      2722,
+      -6099.375,
+      2758,
+      -6067.375
+    ],
+    "bbox_normalized": [
+      945.1388888888889,
+      -3343.9555921052633,
+      957.6388888888889,
+      -3326.4117324561403
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "496380.png"
+    ]
+  },
+  {
+    "backend_node_id": 496381,
+    "bbox_unnormalized": [
+      2730,
+      -6093.375,
+      2750,
+      -6073.375
+    ],
+    "bbox_normalized": [
+      947.9166666666666,
+      -3340.6661184210525,
+      954.8611111111112,
+      -3329.701206140351
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-ellipsis-two  !text-[10px] ",
+    "images": [
+      "496381.png"
+    ]
+  },
+  {
+    "backend_node_id": 496383,
+    "bbox_unnormalized": [
+      2762,
+      -6099.375,
+      2798,
+      -6067.375
+    ],
+    "bbox_normalized": [
+      959.0277777777778,
+      -3343.9555921052633,
+      971.5277777777777,
+      -3326.4117324561403
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "496383.png"
+    ]
+  },
+  {
+    "backend_node_id": 496384,
+    "bbox_unnormalized": [
+      2770,
+      -6093.375,
+      2790,
+      -6073.375
+    ],
+    "bbox_normalized": [
+      961.8055555555555,
+      -3340.6661184210525,
+      968.75,
+      -3329.701206140351
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-copy-two  !text-[10px] ",
+    "images": [
+      "496384.png"
+    ]
+  },
+  {
+    "backend_node_id": 496390,
+    "bbox_unnormalized": [
+      2802,
+      -6099.375,
+      2838,
+      -6067.375
+    ],
+    "bbox_normalized": [
+      972.9166666666666,
+      -3343.9555921052633,
+      985.4166666666667,
+      -3326.4117324561403
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "496390.png"
+    ]
+  },
+  {
+    "backend_node_id": 496391,
+    "bbox_unnormalized": [
+      2813.65625,
+      -6093.375,
+      2826.328125,
+      -6073.375
+    ],
+    "bbox_normalized": [
+      976.9639756944445,
+      -3340.6661184210525,
+      981.3639322916666,
+      -3329.701206140351
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-expander  !text-[10px] opacity-40 ",
+    "images": [
+      "496391.png"
+    ]
+  },
+  {
+    "backend_node_id": 496636,
+    "bbox_unnormalized": [
+      2475,
+      -6088.375,
+      2507,
+      -6056.375
+    ],
+    "bbox_normalized": [
+      859.375,
+      -3337.924890350877,
+      870.4861111111111,
+      -3320.3810307017543
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-chevron-down",
+    "images": [
+      "496636.png"
+    ]
+  },
+  {
+    "backend_node_id": 506271,
+    "bbox_unnormalized": [
+      2138,
+      -6040.375,
+      2168,
+      -6006.375
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -3311.609100877193,
+      752.7777777777777,
+      -3292.96875
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-brain !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "506271.png"
+    ]
+  },
+  {
+    "backend_node_id": 496672,
+    "bbox_unnormalized": [
+      2155.59375,
+      -5674.171875,
+      2184.40625,
+      -5651.765625
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      -3110.83984375,
+      758.4743923611111,
+      -3098.5557154605262
+    ],
+    "aria_label": "",
+    "classes": "composer-code-block-file-icon",
+    "images": [
+      "496672.png"
+    ]
+  },
+  {
+    "backend_node_id": 496673,
+    "bbox_unnormalized": [
+      2155.59375,
+      -5677.375,
+      2190.8125,
+      -5648.5625
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      -3112.5959429824566,
+      760.6987847222222,
+      -3096.79961622807
+    ],
+    "aria_label": "",
+    "classes": "show-file-icons",
+    "images": [
+      "496673.png"
+    ]
+  },
+  {
+    "backend_node_id": 496675,
+    "bbox_unnormalized": [
+      2155.59375,
+      -5677.375,
+      2190.8125,
+      -5648.5625
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      -3112.5959429824566,
+      760.6987847222222,
+      -3096.79961622807
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon requirements.txt-name-file-icon name-file-icon txt-ext-file-icon ext-file-icon pip-requirements-lang-file-icon height-override-important",
+    "images": [
+      "496675.png"
+    ]
+  },
+  {
+    "backend_node_id": 496687,
+    "bbox_unnormalized": [
+      2392.4375,
+      -5673.96875,
+      2414.4375,
+      -5651.96875
+    ],
+    "bbox_normalized": [
+      830.7074652777777,
+      -3110.728481359649,
+      838.3463541666667,
+      -3098.667077850877
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-x",
+    "images": [
+      "496687.png"
+    ]
+  },
+  {
+    "backend_node_id": 496691,
+    "bbox_unnormalized": [
+      2722,
+      -5678.96875,
+      2758,
+      -5646.96875
+    ],
+    "bbox_normalized": [
+      945.1388888888889,
+      -3113.4697094298244,
+      957.6388888888889,
+      -3095.925849780702
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "496691.png"
+    ]
+  },
+  {
+    "backend_node_id": 496692,
+    "bbox_unnormalized": [
+      2730,
+      -5672.96875,
+      2750,
+      -5652.96875
+    ],
+    "bbox_normalized": [
+      947.9166666666666,
+      -3110.180235745614,
+      954.8611111111112,
+      -3099.215323464912
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-ellipsis-two  !text-[10px] ",
+    "images": [
+      "496692.png"
+    ]
+  },
+  {
+    "backend_node_id": 496694,
+    "bbox_unnormalized": [
+      2762,
+      -5678.96875,
+      2798,
+      -5646.96875
+    ],
+    "bbox_normalized": [
+      959.0277777777778,
+      -3113.4697094298244,
+      971.5277777777777,
+      -3095.925849780702
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "496694.png"
+    ]
+  },
+  {
+    "backend_node_id": 496695,
+    "bbox_unnormalized": [
+      2770,
+      -5672.96875,
+      2790,
+      -5652.96875
+    ],
+    "bbox_normalized": [
+      961.8055555555555,
+      -3110.180235745614,
+      968.75,
+      -3099.215323464912
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-copy-two  !text-[10px] ",
+    "images": [
+      "496695.png"
+    ]
+  },
+  {
+    "backend_node_id": 496701,
+    "bbox_unnormalized": [
+      2802,
+      -5678.96875,
+      2838,
+      -5646.96875
+    ],
+    "bbox_normalized": [
+      972.9166666666666,
+      -3113.4697094298244,
+      985.4166666666667,
+      -3095.925849780702
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "496701.png"
+    ]
+  },
+  {
+    "backend_node_id": 496702,
+    "bbox_unnormalized": [
+      2813.65625,
+      -5672.96875,
+      2826.328125,
+      -5652.96875
+    ],
+    "bbox_normalized": [
+      976.9639756944445,
+      -3110.180235745614,
+      981.3639322916666,
+      -3099.215323464912
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-expander  !text-[10px] opacity-40 ",
+    "images": [
+      "496702.png"
+    ]
+  },
+  {
+    "backend_node_id": 506308,
+    "bbox_unnormalized": [
+      2138,
+      -5619.96875,
+      2168,
+      -5585.96875
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -3081.1232182017543,
+      752.7777777777777,
+      -3062.482867324561
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-brain !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "506308.png"
+    ]
+  },
+  {
+    "backend_node_id": 496939,
+    "bbox_unnormalized": [
+      2152,
+      -5445.5625,
+      2176,
+      -5409.5625
+    ],
+    "bbox_normalized": [
+      747.2222222222223,
+      -2985.5057565789475,
+      755.5555555555555,
+      -2965.768914473684
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-terminal-two terminal-prompt",
+    "images": [
+      "496939.png"
+    ]
+  },
+  {
+    "backend_node_id": 506324,
+    "bbox_unnormalized": [
+      2138,
+      -5375.5625,
+      2168,
+      -5341.5625
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -2947.1285635964914,
+      752.7777777777777,
+      -2928.488212719298
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-brain !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "506324.png"
+    ]
+  },
+  {
+    "backend_node_id": 506351,
+    "bbox_unnormalized": [
+      2138,
+      -5180.15625,
+      2168,
+      -5146.15625
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -2839.9979440789475,
+      752.7777777777777,
+      -2821.3575932017543
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-eye-two !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "506351.png"
+    ]
+  },
+  {
+    "backend_node_id": 506378,
+    "bbox_unnormalized": [
+      2155.59375,
+      -4648.953125,
+      2184.40625,
+      -4626.546875
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      -2548.7681606359647,
+      758.4743923611111,
+      -2536.4840323464914
+    ],
+    "aria_label": "",
+    "classes": "composer-code-block-file-icon",
+    "images": [
+      "506378.png"
+    ]
+  },
+  {
+    "backend_node_id": 506379,
+    "bbox_unnormalized": [
+      2155.59375,
+      -4652.15625,
+      2190.8125,
+      -4623.34375
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      -2550.5242598684213,
+      760.6987847222222,
+      -2534.7279331140353
+    ],
+    "aria_label": "",
+    "classes": "show-file-icons",
+    "images": [
+      "506379.png"
+    ]
+  },
+  {
+    "backend_node_id": 506381,
+    "bbox_unnormalized": [
+      2155.59375,
+      -4652.15625,
+      2190.8125,
+      -4623.34375
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      -2550.5242598684213,
+      760.6987847222222,
+      -2534.7279331140353
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon process_gui_elements.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon height-override-important",
+    "images": [
+      "506381.png"
+    ]
+  },
+  {
+    "backend_node_id": 506391,
+    "bbox_unnormalized": [
+      2496.828125,
+      -4648.75,
+      2518.828125,
+      -4626.75
+    ],
+    "bbox_normalized": [
+      866.9542100694443,
+      -2548.656798245614,
+      874.5930989583334,
+      -2536.595394736842
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-x",
+    "images": [
+      "506391.png"
+    ]
+  },
+  {
+    "backend_node_id": 506395,
+    "bbox_unnormalized": [
+      2722,
+      -4653.75,
+      2758,
+      -4621.75
+    ],
+    "bbox_normalized": [
+      945.1388888888889,
+      -2551.3980263157896,
+      957.6388888888889,
+      -2533.8541666666665
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "506395.png"
+    ]
+  },
+  {
+    "backend_node_id": 506396,
+    "bbox_unnormalized": [
+      2730,
+      -4647.75,
+      2750,
+      -4627.75
+    ],
+    "bbox_normalized": [
+      947.9166666666666,
+      -2548.1085526315787,
+      954.8611111111112,
+      -2537.143640350877
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-ellipsis-two  !text-[10px] ",
+    "images": [
+      "506396.png"
+    ]
+  },
+  {
+    "backend_node_id": 506399,
+    "bbox_unnormalized": [
+      2762,
+      -4653.75,
+      2798,
+      -4621.75
+    ],
+    "bbox_normalized": [
+      959.0277777777778,
+      -2551.3980263157896,
+      971.5277777777777,
+      -2533.8541666666665
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "506399.png"
+    ]
+  },
+  {
+    "backend_node_id": 506400,
+    "bbox_unnormalized": [
+      2770,
+      -4647.75,
+      2790,
+      -4627.75
+    ],
+    "bbox_normalized": [
+      961.8055555555555,
+      -2548.1085526315787,
+      968.75,
+      -2537.143640350877
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-copy-two  !text-[10px] ",
+    "images": [
+      "506400.png"
+    ]
+  },
+  {
+    "backend_node_id": 506407,
+    "bbox_unnormalized": [
+      2802,
+      -4653.75,
+      2838,
+      -4621.75
+    ],
+    "bbox_normalized": [
+      972.9166666666666,
+      -2551.3980263157896,
+      985.4166666666667,
+      -2533.8541666666665
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "506407.png"
+    ]
+  },
+  {
+    "backend_node_id": 506408,
+    "bbox_unnormalized": [
+      2813.65625,
+      -4647.75,
+      2826.328125,
+      -4627.75
+    ],
+    "bbox_normalized": [
+      976.9639756944445,
+      -2548.1085526315787,
+      981.3639322916666,
+      -2537.143640350877
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-expander  !text-[10px] opacity-40 ",
+    "images": [
+      "506408.png"
+    ]
+  },
+  {
+    "backend_node_id": 506697,
+    "bbox_unnormalized": [
+      2475,
+      -4642.75,
+      2507,
+      -4610.75
+    ],
+    "bbox_normalized": [
+      859.375,
+      -2545.3673245614036,
+      870.4861111111111,
+      -2527.823464912281
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-chevron-down",
+    "images": [
+      "506697.png"
+    ]
+  },
+  {
+    "backend_node_id": 506705,
+    "bbox_unnormalized": [
+      2138,
+      -4594.75,
+      2168,
+      -4560.75
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -2519.051535087719,
+      752.7777777777777,
+      -2500.4111842105262
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-brain !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "506705.png"
+    ]
+  },
+  {
+    "backend_node_id": 506845,
+    "bbox_unnormalized": [
+      2156,
+      -3446.140625,
+      2180,
+      -3422.140625
+    ],
+    "bbox_normalized": [
+      748.6111111111111,
+      -1889.331483004386,
+      756.9444444444445,
+      -1876.173588267544
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-x",
+    "images": [
+      "506845.png"
+    ]
+  },
+  {
+    "backend_node_id": 506850,
+    "bbox_unnormalized": [
+      2308.078125,
+      -3446.953125,
+      2343.296875,
+      -3421.328125
+    ],
+    "bbox_normalized": [
+      801.416015625,
+      -1889.7769325657894,
+      813.6447482638889,
+      -1875.7281387061405
+    ],
+    "aria_label": "",
+    "classes": "show-file-icons",
+    "images": [
+      "506850.png"
+    ]
+  },
+  {
+    "backend_node_id": 506852,
+    "bbox_unnormalized": [
+      2308.078125,
+      -3446.953125,
+      2343.296875,
+      -3421.328125
+    ],
+    "bbox_normalized": [
+      801.416015625,
+      -1889.7769325657894,
+      813.6447482638889,
+      -1875.7281387061405
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon create_hf_dataset.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon height-override-important",
+    "images": [
+      "506852.png"
+    ]
+  },
+  {
+    "backend_node_id": 506864,
+    "bbox_unnormalized": [
+      2138,
+      -3383.9375,
+      2168,
+      -3349.9375
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -1855.2288925438595,
+      752.7777777777777,
+      -1836.5885416666667
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-brain !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "506864.png"
+    ]
+  },
+  {
+    "backend_node_id": 506920,
+    "bbox_unnormalized": [
+      2159.59375,
+      -2819.734375,
+      2188.40625,
+      -2797.328125
+    ],
+    "bbox_normalized": [
+      749.8589409722223,
+      -1545.9070038377195,
+      759.86328125,
+      -1533.6228755482457
+    ],
+    "aria_label": "",
+    "classes": "composer-code-block-file-icon",
+    "images": [
+      "506920.png"
+    ]
+  },
+  {
+    "backend_node_id": 506921,
+    "bbox_unnormalized": [
+      2159.59375,
+      -2822.9375,
+      2194.8125,
+      -2794.125
+    ],
+    "bbox_normalized": [
+      749.8589409722223,
+      -1547.6631030701756,
+      762.0876736111111,
+      -1531.8667763157894
+    ],
+    "aria_label": "",
+    "classes": "show-file-icons",
+    "images": [
+      "506921.png"
+    ]
+  },
+  {
+    "backend_node_id": 506923,
+    "bbox_unnormalized": [
+      2159.59375,
+      -2822.9375,
+      2194.8125,
+      -2794.125
+    ],
+    "bbox_normalized": [
+      749.8589409722223,
+      -1547.6631030701756,
+      762.0876736111111,
+      -1531.8667763157894
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label file-icon python-lang-file-icon height-override-important",
+    "images": [
+      "506923.png"
+    ]
+  },
+  {
+    "backend_node_id": 506932,
+    "bbox_unnormalized": [
+      2798,
+      -2824.53125,
+      2834,
+      -2792.53125
+    ],
+    "bbox_normalized": [
+      971.5277777777777,
+      -1548.536869517544,
+      984.0277777777777,
+      -1530.993009868421
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "506932.png"
+    ]
+  },
+  {
+    "backend_node_id": 506933,
+    "bbox_unnormalized": [
+      2806,
+      -2818.53125,
+      2826,
+      -2798.53125
+    ],
+    "bbox_normalized": [
+      974.3055555555555,
+      -1545.2473958333333,
+      981.25,
+      -1534.2824835526317
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-copy-two  !text-[10px] ",
+    "images": [
+      "506933.png"
+    ]
+  },
+  {
+    "backend_node_id": 505043,
+    "bbox_unnormalized": [
+      2750,
+      -2603.734375,
+      2798,
+      -2555.734375
+    ],
+    "bbox_normalized": [
+      954.8611111111112,
+      -1427.4859512061405,
+      971.5277777777777,
+      -1401.170161732456
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "505043.png"
+    ]
+  },
+  {
+    "backend_node_id": 507012,
+    "bbox_unnormalized": [
+      2762,
+      -2591.734375,
+      2786,
+      -2567.734375
+    ],
+    "bbox_normalized": [
+      959.0277777777778,
+      -1420.9070038377195,
+      967.3611111111111,
+      -1407.7491091008771
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-copy-two  !text-[12px] ",
+    "images": [
+      "507012.png"
+    ]
+  },
+  {
+    "backend_node_id": 505044,
+    "bbox_unnormalized": [
+      2800,
+      -2605.734375,
+      2848,
+      -2553.734375
+    ],
+    "bbox_normalized": [
+      972.2222222222222,
+      -1428.5824424342106,
+      988.8888888888889,
+      -1400.073670504386
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "505044.png"
+    ]
+  },
+  {
+    "backend_node_id": 507014,
+    "bbox_unnormalized": [
+      2810,
+      -2593.734375,
+      2838,
+      -2565.734375
+    ],
+    "bbox_normalized": [
+      975.6944444444445,
+      -1422.0034950657894,
+      985.4166666666667,
+      -1406.652617872807
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-ellipsis-two  !text-[14px] ",
+    "images": [
+      "507014.png"
+    ]
+  },
+  {
+    "backend_node_id": 507028,
+    "bbox_unnormalized": [
+      2812.296875,
+      256.296875,
+      2849.703125,
+      293.703125
+    ],
+    "bbox_normalized": [
+      976.4919704861111,
+      140.51363760964912,
+      989.4802517361111,
+      161.02145010964912
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center leading-[17px] px-1.5 h-[19px] box-border flex-shrink-0 stop-button ",
+    "images": [
+      "507028.png"
+    ]
+  },
+  {
+    "backend_node_id": 507029,
+    "bbox_unnormalized": [
+      2824.390625,
+      268.390625,
+      2837.609375,
+      281.609375
+    ],
+    "bbox_normalized": [
+      980.6911892361111,
+      147.14398300438597,
+      985.2810329861111,
+      154.39110471491227
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-stop !text-[12px] bg-[var(--vscode-editor-background)] scale-[0.6] rounded-[1px] ",
+    "images": [
+      "507029.png"
+    ]
+  },
+  {
+    "backend_node_id": 507037,
+    "bbox_unnormalized": [
+      2138,
+      -2333.734375,
+      2168,
+      -2299.734375
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -1279.4596354166667,
+      752.7777777777777,
+      -1260.8192845394738
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-brain !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "507037.png"
+    ]
+  },
+  {
+    "backend_node_id": 507057,
+    "bbox_unnormalized": [
+      2138,
+      -2138.328125,
+      2168,
+      -2104.328125
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -1172.3290158991229,
+      752.7777777777777,
+      -1153.6886650219299
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-eye-two !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "507057.png"
+    ]
+  },
+  {
+    "backend_node_id": 507070,
+    "bbox_unnormalized": [
+      2138,
+      -2085.921875,
+      2168,
+      -2051.921875
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -1143.5975191885966,
+      752.7777777777777,
+      -1124.9571683114034
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-folder-two !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "507070.png"
+    ]
+  },
+  {
+    "backend_node_id": 507083,
+    "bbox_unnormalized": [
+      2138,
+      -2033.515625,
+      2168,
+      -1999.515625
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -1114.8660224780701,
+      752.7777777777777,
+      -1096.2256716008771
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-folder-two !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "507083.png"
+    ]
+  },
+  {
+    "backend_node_id": 507096,
+    "bbox_unnormalized": [
+      2138,
+      -1981.109375,
+      2168,
+      -1947.109375
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -1086.134525767544,
+      752.7777777777777,
+      -1067.494174890351
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-folder-two !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "507096.png"
+    ]
+  },
+  {
+    "backend_node_id": 507109,
+    "bbox_unnormalized": [
+      2138,
+      -1928.703125,
+      2168,
+      -1894.703125
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      -1057.4030290570176,
+      752.7777777777777,
+      -1038.7626781798244
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-eye-two !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "507109.png"
+    ]
+  },
+  {
+    "backend_node_id": 507148,
+    "bbox_unnormalized": [
+      2155.59375,
+      143.796875,
+      2184.40625,
+      166.203125
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      78.83600603070177,
+      758.4743923611111,
+      91.12013432017544
+    ],
+    "aria_label": "",
+    "classes": "composer-code-block-file-icon",
+    "images": [
+      "507148.png"
+    ]
+  },
+  {
+    "backend_node_id": 507149,
+    "bbox_unnormalized": [
+      2155.59375,
+      140.59375,
+      2190.8125,
+      169.40625
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      77.07990679824562,
+      760.6987847222222,
+      92.87623355263158
+    ],
+    "aria_label": "",
+    "classes": "show-file-icons",
+    "images": [
+      "507149.png"
+    ]
+  },
+  {
+    "backend_node_id": 507151,
+    "bbox_unnormalized": [
+      2155.59375,
+      140.59375,
+      2190.8125,
+      169.40625
+    ],
+    "bbox_normalized": [
+      748.4700520833333,
+      77.07990679824562,
+      760.6987847222222,
+      92.87623355263158
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon double_dataset.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon height-override-important",
+    "images": [
+      "507151.png"
+    ]
+  },
+  {
+    "backend_node_id": 507160,
+    "bbox_unnormalized": [
+      2427.421875,
+      144,
+      2449.421875,
+      166
+    ],
+    "bbox_normalized": [
+      842.8548177083334,
+      78.94736842105263,
+      850.4937065972223,
+      91.00877192982456
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-check",
+    "images": [
+      "507160.png"
+    ]
+  },
+  {
+    "backend_node_id": 507164,
+    "bbox_unnormalized": [
+      2722,
+      139,
+      2758,
+      171
+    ],
+    "bbox_normalized": [
+      945.1388888888889,
+      76.20614035087719,
+      957.6388888888889,
+      93.75
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "507164.png"
+    ]
+  },
+  {
+    "backend_node_id": 507165,
+    "bbox_unnormalized": [
+      2730,
+      145,
+      2750,
+      165
+    ],
+    "bbox_normalized": [
+      947.9166666666666,
+      79.49561403508771,
+      954.8611111111112,
+      90.46052631578948
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-ellipsis-two  !text-[10px] ",
+    "images": [
+      "507165.png"
+    ]
+  },
+  {
+    "backend_node_id": 507167,
+    "bbox_unnormalized": [
+      2762,
+      139,
+      2798,
+      171
+    ],
+    "bbox_normalized": [
+      959.0277777777778,
+      76.20614035087719,
+      971.5277777777777,
+      93.75
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "507167.png"
+    ]
+  },
+  {
+    "backend_node_id": 507168,
+    "bbox_unnormalized": [
+      2770,
+      145,
+      2790,
+      165
+    ],
+    "bbox_normalized": [
+      961.8055555555555,
+      79.49561403508771,
+      968.75,
+      90.46052631578948
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-copy-two  !text-[10px] ",
+    "images": [
+      "507168.png"
+    ]
+  },
+  {
+    "backend_node_id": 507174,
+    "bbox_unnormalized": [
+      2802,
+      139,
+      2838,
+      171
+    ],
+    "bbox_normalized": [
+      972.9166666666666,
+      76.20614035087719,
+      985.4166666666667,
+      93.75
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "507174.png"
+    ]
+  },
+  {
+    "backend_node_id": 507175,
+    "bbox_unnormalized": [
+      2813.65625,
+      145,
+      2826.328125,
+      165
+    ],
+    "bbox_normalized": [
+      976.9639756944445,
+      79.49561403508771,
+      981.3639322916666,
+      90.46052631578948
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-expander  !text-[10px] opacity-40 ",
+    "images": [
+      "507175.png"
+    ]
+  },
+  {
+    "backend_node_id": 508449,
+    "bbox_unnormalized": [
+      2475,
+      787.703125,
+      2507,
+      819.703125
+    ],
+    "bbox_normalized": [
+      859.375,
+      431.85478344298247,
+      870.4861111111111,
+      449.39864309210526
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-chevron-up",
+    "images": [
+      "508449.png"
+    ]
+  },
+  {
+    "backend_node_id": 508457,
+    "bbox_unnormalized": [
+      2138,
+      835.703125,
+      2168,
+      869.703125
+    ],
+    "bbox_normalized": [
+      742.3611111111111,
+      458.1705729166667,
+      752.7777777777777,
+      476.8109237938596
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-brain !text-[12px] !text-[var(--cursor-text-secondary)] flex items-center justify-start",
+    "images": [
+      "508457.png"
+    ]
+  },
+  {
+    "backend_node_id": 508471,
+    "bbox_unnormalized": [
+      2152,
+      908.109375,
+      2176,
+      944.109375
+    ],
+    "bbox_normalized": [
+      747.2222222222223,
+      497.86698190789474,
+      755.5555555555555,
+      517.6038240131578
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-terminal-two terminal-prompt",
+    "images": [
+      "508471.png"
+    ]
+  },
+  {
+    "backend_node_id": 508523,
+    "bbox_unnormalized": [
+      2302.1875,
+      962.109375,
+      2326.1875,
+      986.109375
+    ],
+    "bbox_normalized": [
+      799.3706597222222,
+      527.4722450657895,
+      807.7039930555555,
+      540.6301398026316
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-chevron-down !text-[12px] opacity-70 !overflow-visible undefined",
+    "images": [
+      "508523.png"
+    ]
+  },
+  {
+    "backend_node_id": 497885,
+    "bbox_unnormalized": [
+      2147,
+      1593,
+      2169,
+      1615
+    ],
+    "bbox_normalized": [
+      745.4861111111111,
+      873.3552631578947,
+      753.125,
+      885.4166666666666
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-at-sign",
+    "images": [
+      "497885.png"
+    ]
+  },
+  {
+    "backend_node_id": 508634,
+    "bbox_unnormalized": [
+      2189.59375,
+      1589.59375,
+      2218.40625,
+      1618.40625
+    ],
+    "bbox_normalized": [
+      760.2756076388889,
+      871.4878015350878,
+      770.2799479166666,
+      887.2841282894736
+    ],
+    "aria_label": "",
+    "classes": "show-file-icons",
+    "images": [
+      "508634.png"
+    ]
+  },
+  {
+    "backend_node_id": 508636,
+    "bbox_unnormalized": [
+      2189.59375,
+      1589.59375,
+      2218.40625,
+      1618.40625
+    ],
+    "bbox_normalized": [
+      760.2756076388889,
+      871.4878015350878,
+      770.2799479166666,
+      887.2841282894736
+    ],
+    "aria_label": "",
+    "classes": "monaco-icon-label file-icon ide_use-name-dir-icon process_gui_elements.py-name-file-icon name-file-icon py-ext-file-icon ext-file-icon python-lang-file-icon height-override-important",
+    "images": [
+      "508636.png"
+    ]
+  },
+  {
+    "backend_node_id": 497913,
+    "bbox_unnormalized": [
+      2148,
+      1711,
+      2174,
+      1737
+    ],
+    "bbox_normalized": [
+      745.8333333333334,
+      938.0482456140351,
+      754.8611111111111,
+      952.3026315789474
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-infinity",
+    "images": [
+      "497913.png"
+    ]
+  },
+  {
+    "backend_node_id": 494103,
+    "bbox_unnormalized": [
+      2248.5,
+      1715,
+      2266.5,
+      1733
+    ],
+    "bbox_normalized": [
+      780.7291666666667,
+      940.2412280701755,
+      786.9791666666666,
+      950.109649122807
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-chevron-up",
+    "images": [
+      "494103.png"
+    ]
+  },
+  {
+    "backend_node_id": 508647,
+    "bbox_unnormalized": [
+      2290.5,
+      1710,
+      2314.5,
+      1734
+    ],
+    "bbox_normalized": [
+      795.3125,
+      937.5,
+      803.6458333333333,
+      950.6578947368422
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-brain",
+    "images": [
+      "508647.png"
+    ]
+  },
+  {
+    "backend_node_id": 505055,
+    "bbox_unnormalized": [
+      2483.640625,
+      1715,
+      2501.640625,
+      1733
+    ],
+    "bbox_normalized": [
+      862.3752170138889,
+      940.2412280701755,
+      868.6252170138888,
+      950.109649122807
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-chevron-up",
+    "images": [
+      "505055.png"
+    ]
+  },
+  {
+    "backend_node_id": 494107,
+    "bbox_unnormalized": [
+      2764,
+      1712,
+      2788,
+      1736
+    ],
+    "bbox_normalized": [
+      959.7222222222223,
+      938.5964912280702,
+      968.0555555555555,
+      951.7543859649122
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "494107.png"
+    ]
+  },
+  {
+    "backend_node_id": 497927,
+    "bbox_unnormalized": [
+      2764,
+      1712,
+      2788,
+      1736
+    ],
+    "bbox_normalized": [
+      959.7222222222223,
+      938.5964912280702,
+      968.0555555555555,
+      951.7543859649122
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-image-two !text-[12px] undefined ",
+    "images": [
+      "497927.png"
+    ]
+  },
+  {
+    "backend_node_id": 494108,
+    "bbox_unnormalized": [
+      2806.296875,
+      1705.296875,
+      2843.703125,
+      1742.703125
+    ],
+    "bbox_normalized": [
+      974.4086371527778,
+      934.9215323464912,
+      987.3969184027777,
+      955.4293448464912
+    ],
+    "aria_label": "",
+    "classes": "anysphere-icon-button bg-[transparent] border-none text-[var(--cursor-text-primary)] flex w-3 items-center justify-center  ",
+    "images": [
+      "494108.png"
+    ]
+  },
+  {
+    "backend_node_id": 497936,
+    "bbox_unnormalized": [
+      2818.390625,
+      1717.390625,
+      2831.609375,
+      1730.609375
+    ],
+    "bbox_normalized": [
+      978.6078559027777,
+      941.551877741228,
+      983.1976996527778,
+      948.7989994517544
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-debug-stop !text-[12px] bg-[var(--vscode-editor-background)] scale-[0.6] rounded-[1px] ",
+    "images": [
+      "497936.png"
+    ]
+  },
+  {
+    "backend_node_id": 2289,
+    "bbox_unnormalized": [
+      20,
+      1788,
+      48,
+      1816
+    ],
+    "bbox_normalized": [
+      6.944444444444444,
+      980.2631578947369,
+      16.666666666666668,
+      995.6140350877192
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-remote",
+    "images": [
+      "2289.png"
+    ]
+  },
+  {
+    "backend_node_id": 508652,
+    "bbox_unnormalized": [
+      84,
+      1788,
+      112,
+      1816
+    ],
+    "bbox_normalized": [
+      29.166666666666668,
+      980.2631578947369,
+      38.88888888888889,
+      995.6140350877192
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-error",
+    "images": [
+      "508652.png"
+    ]
+  },
+  {
+    "backend_node_id": 508655,
+    "bbox_unnormalized": [
+      138.09375,
+      1788,
+      166.09375,
+      1816
+    ],
+    "bbox_normalized": [
+      47.94921875,
+      980.2631578947369,
+      57.67144097222222,
+      995.6140350877192
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-warning",
+    "images": [
+      "508655.png"
+    ]
+  },
+  {
+    "backend_node_id": 380614,
+    "bbox_unnormalized": [
+      2822,
+      1788,
+      2850,
+      1816
+    ],
+    "bbox_normalized": [
+      979.8611111111111,
+      980.2631578947369,
+      989.5833333333334,
+      995.6140350877192
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-bell-dot",
+    "images": [
+      "380614.png"
+    ]
+  },
+  {
+    "backend_node_id": 2308,
+    "bbox_unnormalized": [
+      2762,
+      1788,
+      2790,
+      1816
+    ],
+    "bbox_normalized": [
+      959.0277777777778,
+      980.2631578947369,
+      968.75,
+      995.6140350877192
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-copilot-warning",
+    "images": [
+      "2308.png"
+    ]
+  },
+  {
+    "backend_node_id": 510393,
+    "bbox_unnormalized": [
+      2366.65625,
+      1788,
+      2394.65625,
+      1816
+    ],
+    "bbox_normalized": [
+      821.7556423611111,
+      980.2631578947369,
+      831.4778645833333,
+      995.6140350877192
+    ],
+    "aria_label": "",
+    "classes": "codicon codicon-bracket-dot",
+    "images": [
+      "510393.png"
+    ]
+  }
+]
