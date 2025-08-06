@@ -1,7 +1,8 @@
 # IDE Grounding Kit
 
 **IDE Grounding Kit** is a modular pipeline for generating grounded UI datasets from IDEs like **Cursor** or **VS Code**, using CDP calls to Electron Browser with Browser Use Extraction layer.
-It extracts icon elements from the DOM, annotates their functions using an LLM, and formats the output into datasets suitable for training with share-gpt format.
+It extracts icon elements from the DOM, annotates their functions using an LLM, and formats the output into datasets suitable for training with share-gpt format. It can very easily be expanded to extract other custom elements from the GUI (for example function calls from the editor panel) by writing a simple filter function.
+
 ## Run Cursor or VS Code with Remote Debugging
 
 ```cmd
