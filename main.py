@@ -93,6 +93,6 @@ if __name__ == "__main__":
 """
 python main.py \
     --mode grounding \
-    --theme-name dark_theme \
-    --web-socket-url ws://127.0.0.1:9222/devtools/browser/5300fb59-8b33-4d45-ac9a-137fa1ee4a55
+    --theme-name dark_theme_cursor \
+    --web-socket-url ws://127.0.0.1:9222/devtools/browser/3b53b808-f039-4c4b-a7c8-ce7eabb8f409
 """

@@ -2,7 +2,10 @@ import json
 from pathlib import Path
 
 def get_grounding_task_message(line):
-    bbox_string = "<bbox> {x1}, {y1}, {x2}, {y2} </bbox>".format(x1=line["bbox_normalized"][0], y1=line["bbox_normalized"][1], x2=line["bbox_normalized"][2], y2=line["bbox_normalized"][3])
+    x1, y1, x2, y2 = line["bbox_normalized"]
+    bbox_center_x = int(round((x1 + x2) / 2))
+    bbox_center_y = int(round((y1 + y2) / 2))
+    assistant_answer = f"Action: (start_box='<|box_start|>({bbox_center_x},{bbox_center_y})<|box_end|>')"
     PROMPT = """<image>{instruction}"""
     msg = [
         {
@@ -19,7 +22,7 @@ def get_grounding_task_message(line):
             "content": [
                 {
                     "type": "text",
-                    "text": bbox_string
+                    "text": assistant_answer
                 }
             ]
         }
@@ -62,13 +65,17 @@ def postprocess_to_grounding_dataset(input_file, theme):
             continue
         else:
             valid_functions_count += 1
+
         
         # Grounding task
         sample = {
             "task_type": "grounding",
             "id": theme + "_" + str(record["backend_node_id"]),
             "messages": get_grounding_task_message(record),
-            "images": [(Path("images") / f"{theme}.png").as_posix()]
+            "images": [(Path("images") / f"{theme}.png").as_posix()],
+            "bbox": [int(round(x)) for x in record["bbox_normalized"]],
+            "original_bbox": [int(round(x)) for x in record["bbox_normalized"]],
+            "instruction": record["function"]
         }
         
         samples.append(sample)
