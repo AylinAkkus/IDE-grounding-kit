@@ -34,9 +34,9 @@ After running the script, the output folder will look like:
 ```sh
 data/
 └── dark_theme/
-    ├── images/                          # Icon bounding box images
+    ├── bbox_images/                     # Icon bounding box images
+    ├── images/                          # Screenshot without bbox 
     ├── icons_data.json                  # Raw icon metadata
     ├── annotated_icons.jsonl            # Annotated instructions
-    ├── dark_theme.png                   # Full-page screenshot
     └── dark_theme_grounding_dataset.json  # Final LLaMAFactory dataset
 ```
