@@ -74,7 +74,7 @@ def postprocess_to_grounding_dataset(input_file, theme):
             "messages": get_grounding_task_message(record),
             "images": [(Path("images") / f"{theme}.png").as_posix()],
             "bbox": [int(round(x)) for x in record["bbox_normalized"]],
-            "original_bbox": [int(round(x)) for x in record["bbox_normalized"]],
+            "original_bbox": [int(round(x)) for x in record["bbox_unnormalized"]],
             "instruction": record["function"]
         }
         
