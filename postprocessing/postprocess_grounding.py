@@ -68,7 +68,7 @@ def postprocess_to_grounding_dataset(input_file, theme):
             "task_type": "grounding",
             "id": theme + "_" + str(record["backend_node_id"]),
             "messages": get_grounding_task_message(record),
-            "images": (Path("images") / f"{theme}.png").as_posix()
+            "images": [(Path("images") / f"{theme}.png").as_posix()]
         }
         
         samples.append(sample)
